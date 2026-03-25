@@ -1,0 +1,5 @@
+{
+  "name": "NetTunnel Architect Dashboard",
+  "description": "A technical specification and proof-of-concept dashboard for Android VPN Tunneling and HTTP Injection architecture.",
+  "requestFramePermissions": []
+}
